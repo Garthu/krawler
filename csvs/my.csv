@@ -1,0 +1,29 @@
+title,DOI,authors,citations
+Using RDMA efficiently for key-value services,https://doi.org/10.1145/2619239.2626299,Anuj Kalia|Michael Kaminsky|David G. Andersen,283
+Congestion Control for Large-Scale RDMA Deployments,https://doi.org/10.1145/2785956.2787484,Yibo Zhu|Haggai Eran|Daniel Firestone|Chuanxiong Guo|Marina Lipshteyn|Yehonatan Liron|Jitendra Padhye|Shachar Raindel|Mohamad Haj Yahia|Ming Zhang,273
+Jurisdiction and Security,10.21810/jicw.v5i2.5035,,0
+Distributed Lock Management with RDMA: Decentralization without Starvation,https://doi.org/10.1145/3183713.3196890,Dong Young Yoon|Mosharaf Chowdhury|Barzan Mozafari,17
+A study of iSCSI extensions for RDMA (iSER),https://doi.org/10.1145/944747.944754,Mallikarjun Chadalapaka|Hemal Shah|Uri Elzur|Patricia Thaler|Michael Ko,21
+High Performance Pipelined Process Migration with RDMA,https://doi.org/10.1109/CCGrid.2011.76,Xiangyong Ouyang|Raghunath Rajachandrasekar|Xavier Besseron|Dhabaleswar K. Panda,2
+Revisiting network support for RDMA,https://doi.org/10.1145/3230543.3230557,Radhika Mittal|Alexander Shpiner|Aurojit Panda|Eitan Zahavi|Arvind Krishnamurthy|Sylvia Ratnasamy|Scott Shenker,70
+The Impact of RDMA on Agreement,https://doi.org/10.1145/3293611.3331601,Marcos K. Aguilera|Naama Ben-David|Rachid Guerraoui|Virendra Marathe|Igor Zablotchi,15
+Toward Effective and Fair RDMA Resource Sharing,https://doi.org/10.1145/3232565.3232636,Haonan Qiu|Xiaoliang Wang|Tianchen Jin|Zhuzhong Qian|Baoliu Ye|Bin Tang|Wenzhong Li|Sanglu Lu,5
+Scalable Distributed Transaction Processing on Modern RDMA-enabled Networks,https://doi.org/10.1145/3448016.3461469,Erfan Zamanian,0
+Difference in risk perception of onboard security threats by aircrew and aviation security experts,10.1016/j.trip.2022.100666,,0
+vSocket: virtual socket interface for RDMA in public clouds,https://doi.org/10.1145/3313808.3313813,Dongyang Wang|Binzhang Fu|Gang Lu|Kun Tan|Bei Hua,7
+Scalable RDMA RPC on Reliable Connection with Efficient Resource Sharing,https://doi.org/10.1145/3302424.3303968,Youmin Chen|Youyou Lu|Jiwu Shu,35
+Performance Isolation Anomalies in RDMA,https://doi.org/10.1145/3098583.3098591,Yiwen Zhang|Juncheng Gu|Youngmoon Lee|Mosharaf Chowdhury|Kang G. Shin,12
+LITE Kernel RDMA Support for Datacenter Applications,https://doi.org/10.1145/3132747.3132762,Shin-Yeh Tsai|Yiying Zhang,68
+What Physical Layer Security Can Do for 6G Security,None,,0
+Security Policy,10.1007/978-981-19-2727-0_4,,0
+A case for RDMA in clouds: turning supercomputer networking into commodity,https://doi.org/10.1145/2103799.2103820,Animesh Trivedi|Bernard Metzler|Patrick Stuedi,16
+An RDMA-enabled In-memory Computing Platform for R-tree on Clusters,https://doi.org/10.1145/3503513,Mengbai Xiao|Hao Wang|Liang Geng|Rubao Lee|Xiaodong Zhang,0
+Towards a Framework for One-sided RDMA Multicast,https://doi.org/10.1145/3493425.3502766,Xin Zhe Khooi|Cha Hwan Song|Mun Choon Chan,0
+Privacy and Security,10.1007/978-3-031-07912-2_6,,0
+Hamband: RDMA replicated data types,https://doi.org/10.1145/3519939.3523426,Farzin Houshmand|Javad Saberlatibari|Mohsen Lesani,0
+RDMA over Commodity Ethernet at Scale,https://doi.org/10.1145/2934872.2934908,Chuanxiong Guo|Haitao Wu|Zhong Deng|Gaurav Soni|Jianxi Ye|Jitu Padhye|Marina Lipshteyn,159
+Blockchain Security as “People Security”: Applying Sociotechnical Security to Blockchain Technology,10.1007/978-3-031-10507-4_16,,1
+A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces,https://doi.org/10.1145/2731186.2731200,Jonas Pfefferle|Patrick Stuedi|Animesh Trivedi|Bernard Metzler|Ionnis Koltsidas|Thomas R. Gross,16
+Information Security in the National Security System in the Modern Age,10.25041/fiatjustisia.v16no4.2665,,0
+Impact of militancy on human security in Niger delta: Evidence from food and environmental security,10.30574/wjarr.2022.16.2.1213,,0
+Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks,https://doi.org/10.1145/3299869.3300081,Tobias Ziegler|Sumukha Tumkur Vani|Carsten Binnig|Rodrigo Fonseca|Tim Kraska,16
