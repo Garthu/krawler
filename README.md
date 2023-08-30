@@ -1,0 +1,1 @@
+This Python crawler is tailored to efficiently navigate and extract data from ACM, IEEE, and ResearchGate, providing a streamlined solution for researchers to gather valuable information across these prominent research platforms.
